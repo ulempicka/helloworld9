@@ -6,5 +6,6 @@ public class Task1 {
         System.out.println("i");
         System.out.println("commitowania");
         System.out.print("i\nwiecej\ncommitowania");
+
     }
 }
